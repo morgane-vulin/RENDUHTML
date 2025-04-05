@@ -1,0 +1,12 @@
+h2{
+    text-align: center;
+color: rgb(208, 10, 10);
+}
+.photo{
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+.photo{
+   border-radius: 20px;
+}
